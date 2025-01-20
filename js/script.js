@@ -42,12 +42,12 @@ setInterval(updateTime, 1000);
 updateTime();
 
 const images = [
-    '../image/project/ndt/ndt-17.jpg',
-    '../image/project/ndt/ndt-53.jpg',
-    '../image/project/ndt/ndt-54.jpg',
-    '../image/project/ndt/ndt-61.jpg',
-    '../image/project/ndt/ndt-64.jpg',
-    '../image/project/ndt/ndt-66.jpg'
+    './image/project/ndt/ndt-17.jpg',
+    './image/project/ndt/ndt-53.jpg',
+    './image/project/ndt/ndt-54.jpg',
+    './image/project/ndt/ndt-61.jpg',
+    './image/project/ndt/ndt-64.jpg',
+    './image/project/ndt/ndt-66.jpg'
 ];
 
 let currentIndex = 0;
